@@ -34,6 +34,4 @@ Olá este é o meu perfil no GitHub👋
 - 🌎 Sou de Uberlândia - MG / Brasil
 - 💎 Amo marketing e criar coisas 
 
-## Estudando agora
-
 📝Conhecimento nunca é demais.
